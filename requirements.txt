@@ -1,0 +1,8 @@
+jupyter==1.0.0
+numpy==2.0.0
+pandas==2.2.2
+matplotlib==3.9.1
+seaborn==0.13.2
+cvxpy==1.5.2
+statsmodels==0.14.1
+hyperopt 0.2.7
